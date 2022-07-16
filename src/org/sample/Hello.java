@@ -6,6 +6,9 @@ public class Hello {
 		System.out.println("Example 1");
 
 	}
+	private void example3() {
+		System.out.println("Example 3");
+	}
 
 	private void example3() {
 		System.out.println("Example 3");
